@@ -1,1 +1,5 @@
 Olá, eu sou um arquivo de teste
+
+* estou sendo modificado localmente 
+* para as aulas de git e github xD 
+* e estou gostando muito dos treinamentos da Philips 
